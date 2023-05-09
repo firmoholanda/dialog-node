@@ -1,6 +1,6 @@
 # 📃 dialog-node
 
-node.js middleware that acess a rails api, using express
+node.js middleware that access a rails api, using express
 
 ## 📡 technologies used
 
